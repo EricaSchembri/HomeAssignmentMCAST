@@ -1,0 +1,5 @@
+[core]
+	autocrlf = input
+[gui]
+	recentrepo = E:/MCAST/git/Repository
+	recentrepo = E:/MCAST/git
